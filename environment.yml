@@ -37,6 +37,7 @@ dependencies:
 - wtforms
 - xz
 - zlib
+- sqlalchemy
 - pip:
   - ipython-genutils
   - prompt-toolkit
