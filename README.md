@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/5492621/157724216-09307c1a-c5a7-4977-b365-b3353746dbee.png)
+
 # Digipodium Major Project Flask App
 
 Sample Flask web App using Scikit-Learn to predict IRIS Flower.
