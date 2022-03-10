@@ -1,0 +1,18 @@
+/* add design here */
+
+  .form-area {
+    display: grid;
+    /* centered */
+    height: 80vh;
+    justify-content: center;
+    align-content: center;
+
+  }
+
+
+  body {
+    background-color: #387aa0;
+    background-image: url("/static/images/bg.jpg");
+    background-size: cover;
+    background-blend-mode: overlay;
+  }
